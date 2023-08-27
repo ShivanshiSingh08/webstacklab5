@@ -1,0 +1,38 @@
+<products>
+  <product>
+    <id>1</id>
+    <name>Laptop</name>
+    <price>999.99</price>
+    <description>Powerful laptop with great features.</description>
+  </product>
+  <product>
+    <id>2</id>
+    <name>Smartphone</name>
+    <price>599.99</price>
+    <description>High-quality smartphone with the latest technology.</description>
+  </product>
+  <product>
+    <id>3</id>
+    <name>Headphones</name>
+    <price>149.95</price>
+    <description>Wireless headphones with noise-canceling feature.</description>
+  </product>
+  <product>
+    <id>4</id>
+    <name>Tablet</name>
+    <price>499.00</price>
+    <description>Compact tablet for work and entertainment on the go.</description>
+  </product>
+  <product>
+    <id>5</id>
+    <name>Smartwatch</name>
+    <price>199.99</price>
+    <description>Stay connected with this stylish smartwatch.</description>
+  </product>
+  <product>
+    <id>6</id>
+    <name>Camera</name>
+    <price>799.50</price>
+    <description>Professional-grade camera for capturing stunning photos and videos.</description>
+  </product>
+</products>
